@@ -1,0 +1,15 @@
+WCFService/packages/
+/obj/
+WCFService/StoryServiceTest/obj/
+WCFService/EpicSeriveTest/obj/
+WCFService/EpicSeriveTest/bin/
+WCFService/Data.Core/obj/Debug/
+WCFService/WCFService/obj/
+WCFService/Business.Service/obj/
+WCFService/Core.Common/obj/
+WCFService/Data.Core/bin/
+WCFService/Business.Entities/obj/
+WCFService/WCFService/bin/
+/WCFService/Business.Entities/bin/Debug
+/WCFService/Business.Service/bin/Debug
+/WCFService/Core.Common/bin/Debug
